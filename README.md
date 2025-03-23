@@ -2,6 +2,5 @@
 
 - Siempre Busco Desafios A la Hora de Programar 
 - Actualmente mi lenguaje favorito es Java 21
-- Hago paginas web para ponerme aprueba 
 - Disponibilidad 24/7 
 - Soy muy colaborador y participativo 
