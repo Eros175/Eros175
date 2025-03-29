@@ -22,6 +22,9 @@
 <a href="#">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/512px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40"/>
 </a>
+<a href="#">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
+</a>
 </p>
 
 
