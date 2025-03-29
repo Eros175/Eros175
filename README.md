@@ -6,11 +6,11 @@
         and efficient code.
       </h2>
       <h3>
-          🔹 Expertise: Java 21 (primary), Front-End Development
-          🔹 Mindset: Proactive, detail-oriented, and hungry for challenges
-          🔹 Growth: Constantly learning and refining skills
-          🔹 Availability: Full-time, flexible, and reliable 
-          🔹 Passions: Building intuitive interfaces & videoeditin    
+          -🔹 Expertise: Java 21 (primary), Front-End Development
+          -🔹 Mindset: Proactive, detail-oriented, and hungry for challenges
+          -🔹 Growth: Constantly learning and refining skills
+          -🔹 Availability: Full-time, flexible, and reliable 
+          -🔹 Passions: Building intuitive interfaces & videoeditin    
       </h3>
     </div>
     <div class="about-Me">
