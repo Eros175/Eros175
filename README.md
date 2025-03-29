@@ -8,6 +8,13 @@
     </div>
     <div class="about-Me">
       <h1>About Me</h1>
+     <p>
+    🔹 Expertise: Java 21 (primary), Front-End Development
+    🔹 Mindset: Proactive, detail-oriented, and hungry for challenges
+    🔹 Growth: Constantly learning and refining skills
+    🔹 Availability: Full-time, flexible, and reliable
+    🔹 Passions: Building intuitive interfaces & videoeditin
+     </p>
       <p>
         Current Expertise: My primary programming language is Angular 19, which
         I use extensively in both personal and professional projects. I thrive
