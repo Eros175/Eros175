@@ -16,14 +16,14 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
-<a href="#">
+<a href="#" target="_blank" rel="noreferrer">
    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="40" height="40"/>
 </a>
-<a href="#">
+<a href="#" target="_blank" rel="noreferrer">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/512px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40"/>
 </a>
-<a href="#">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
+<a href="#" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="30" height="30"/>
 </a>
 </p>
 
