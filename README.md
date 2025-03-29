@@ -16,11 +16,11 @@
 <h1>Contact Me</h1>
 <a href="https://www.facebook.com/profile.php?id=61567436076150">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      
-    generator/master/src/images/icons/Social/facebook.svg" alt="davidmorenogt" height="30" width="40" />
+    generator/master/src/images/icons/Social/facebook.svg" alt="Eros-id" height="30" width="40" />
  </a>
  <a href="https://www.instagram.com/eros.175v2/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      
-     generator/master/src/images/icons/Social/instagram.svg" alt="david_moreno_id" height="30" width="40" />
+     generator/master/src/images/icons/Social/instagram.svg" alt="Eros-id" height="30" width="40" />
 </a>
 
 
