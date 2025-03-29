@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Carlos. (Eros)</h1>
 <h2 align="center">Self-taught Web Developer</h2>
    
--  Expertise: Java 21 (primary), Front-End Development
+-  Expertise: Angular 19 (primary), Front-End Development
           
 -  Mindset: Proactive, detail-oriented, and hungry for challenges
            
