@@ -1,8 +1,5 @@
- <body>
-   <div class="header">
-      <h1 alging="center">Hello, my name is Carlos. (Eros)</h1>
-      <h2 alging="center">Self-taught Web Developer</h2>
-      <h3>
+   <h1 alging="center">Hello, my name is Carlos. (Eros)</h1>
+      <h3 alging="center">Self-taught Web Developer</h3>
         <ul>
             <li>
              Expertise: Java 21 (primary), Front-End Development
@@ -21,7 +18,6 @@
           </li>   
         </ul>
       </h3>
-    </div>
     <div class="about-Me">
       <h1>About Me</h1>
       <p>
