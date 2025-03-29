@@ -1,26 +1,23 @@
  <body>
-    <div alging="center" class="header">
-      <h1>Hello, my name is Carlos. (Eros)</h1>
-      <h2>
-        I am a self-taught Web Developer with a strong focus on crafting clean
-        and efficient code.
-      </h2>
+   <div class="header">
+      <h1 alging="center">Hello, my name is Carlos. (Eros)</h1>
+      <h2 alging="center">Self-taught Web Developer</h2>
       <h3>
         <ul>
             <li>
-                🔹 Expertise: Java 21 (primary), Front-End Development
+             Expertise: Java 21 (primary), Front-End Development
             </li>
             <li>
-                🔹 Mindset: Proactive, detail-oriented, and hungry for challenges
+             Mindset: Proactive, detail-oriented, and hungry for challenges
             </li>
             <li>
-                🔹 Growth: Constantly learning and refining skills
+             Growth: Constantly learning and refining skills
             </li>
             <li>
-                🔹 Availability: Full-time, flexible, and reliable 
+             Availability: Full-time, flexible, and reliable 
             </li>
           <li>
-            🔹 Passions: Building intuitive interfaces & videoeditin 
+             Passions: Building intuitive interfaces & videoeditin 
           </li>   
         </ul>
       </h3>
