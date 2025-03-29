@@ -18,6 +18,7 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/512px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="30" height="30"/></a>
 <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30"/></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.postman.com/downloads/images/postman-logo-transparent.png" alt="Postman" width="40" height="40"/></a>
 </p>
 
 
