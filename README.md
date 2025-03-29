@@ -19,7 +19,6 @@
         detail and a commitment to accountability. Constantly seeking new
         technical challenges to expand my knowledge and refine my skill set.
       </p>
-
       <p>
         Availability & Work Ethic: I maintain a flexible schedule and am
         available full-time, ensuring prompt communication and timely project
@@ -34,7 +33,6 @@
         java 21.
       </p>
     </div>
-
     <div class="Contact Me">
         <h1>Contact Me</h1>
       <a href="https://www.facebook.com/profile.php?id=61567436076150">
