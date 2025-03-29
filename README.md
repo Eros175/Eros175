@@ -8,19 +8,19 @@
       <h3>
         <ul>
             <li>
-                🔹 Expertise: Java 21 (primary), Front-End Development
+                Expertise: Java 21 (primary), Front-End Development
             </li>
             <li>
-                🔹 Mindset: Proactive, detail-oriented, and hungry for challenges
+                Mindset: Proactive, detail-oriented, and hungry for challenges
             </li>
             <li>
-                🔹 Growth: Constantly learning and refining skills
+                Growth: Constantly learning and refining skills
             </li>
             <li>
-                🔹 Availability: Full-time, flexible, and reliable 
+                Availability: Full-time, flexible, and reliable 
             </li>
           <li>
-            🔹 Passions: Building intuitive interfaces & videoeditin 
+             Passions: Building intuitive interfaces & videoeditin 
           </li>   
         </ul>
       </h3>
