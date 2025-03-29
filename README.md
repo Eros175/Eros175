@@ -20,6 +20,7 @@
 <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30"/></a>
 <a href="https://code.visualstudio.com" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/es-es/idea/" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/es-es/idea/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Java_logo.svg/512px-Java_logo.svg.png" alt="Java" width="40" height="40"/></a>
 </p>
 
 
