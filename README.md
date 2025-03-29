@@ -9,9 +9,22 @@
            
 -  Availability: Full-time, flexible, and reliable 
            
--  Passions: Building intuitive interfaces & videoeditin 
-    <div class="about-Me">
-      <h1>About Me</h1>
+-  Passions: Building intuitive interfaces & videoeditin
+
+
+
+<h1>Contact Me</h1>
+<a href="https://www.facebook.com/profile.php?id=61567436076150">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      
+    generator/master/src/images/icons/Social/facebook.svg" alt="davidmorenogt" height="30" width="40" />
+ </a>
+ <a href="https://www.instagram.com/eros.175v2/">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      
+     generator/master/src/images/icons/Social/instagram.svg" alt="david_moreno_id" height="30" width="40" />
+</a>
+
+
+ <h1>About Me</h1>
       <p>
         Current Expertise: My primary programming language is Angular 19, which
         I use extensively in both personal and professional projects. I thrive
@@ -36,14 +49,6 @@
         FunFact: I enjoy video editing and develop custom minecraft plugins whit
         java 21.
       </p>
-    </div>
-    <div class="Contact Me">
-        <h1>Contact Me</h1>
-      <a href="https://www.facebook.com/profile.php?id=61567436076150">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidmorenogt" height="30" width="40" />
-      </a>
-      <a href="https://www.instagram.com/eros.175v2/">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david_moreno_id" height="30" width="40" />
-      </a>
-    </div>
-  </body>
+
+   
+
