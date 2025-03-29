@@ -36,41 +36,10 @@
     <div class="Contact Me">
         <h1>Contact Me</h1>
       <a href="https://www.facebook.com/profile.php?id=61567436076150">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-        >
-          <path
-            fill="currentColor"
-            d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95"
-          />
-        </svg>
+       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidmorenogt" height="30" width="40" />
       </a>
       <a href="https://www.instagram.com/eros.175v2/">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-        >
-          <g fill="none">
-            <path
-              stroke="currentColor"
-              stroke-width="2"
-              d="M3 11c0-3.771 0-5.657 1.172-6.828S7.229 3 11 3h2c3.771 0 5.657 0 6.828 1.172S21 7.229 21 11v2c0 3.771 0 5.657-1.172 6.828S16.771 21 13 21h-2c-3.771 0-5.657 0-6.828-1.172S3 16.771 3 13z"
-            />
-            <circle cx="16.5" cy="7.5" r="1.5" fill="currentColor" />
-            <circle
-              cx="12"
-              cy="12"
-              r="3"
-              stroke="currentColor"
-              stroke-width="2"
-            />
-          </g>
-        </svg>
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david_moreno_id" height="30" width="40" />
       </a>
     </div>
   </body>
